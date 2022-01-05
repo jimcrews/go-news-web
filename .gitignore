@@ -1,4 +1,8 @@
+# secrets
+.env
+
 # Binaries for programs and plugins
+go-news-web
 *.exe
 *.exe~
 *.dll
